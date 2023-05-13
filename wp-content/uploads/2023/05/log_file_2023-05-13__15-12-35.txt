@@ -1,0 +1,69 @@
+
+---Downloaded files---
+The import files for: Cartzilla - Fashion were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/E-commerce
+Data file = C:\xampp\htdocs\E-commerce/wp-content/themes/cartzilla/assets/dummy-data/main/dummy-data.xml
+Widget file = C:\xampp\htdocs\E-commerce/wp-content/themes/cartzilla/assets/dummy-data/main/widgets.wie
+Customizer file = C:\xampp\htdocs\E-commerce/wp-content/themes/cartzilla/assets/dummy-data/main/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+(Cartzilla) Blog Categories - Blog categories - Imported
+(Cartzilla) Recent Posts - Trending posts - Imported
+Product Tag Cloud - Product tags - Imported
+Custom HTML - No Title - Imported
+
+Shop Sidebar : 
+
+(Cartzilla) Product Categories - No Title - Imported
+Filter Products by Price - Price - Imported
+Filter Products by Attribute - Size - Imported
+Filter Products by Attribute - Color - Imported
+
+Full Width Shop Filters Column 1 : 
+
+(Cartzilla) Product Categories - No Title - Imported
+
+Full Width Shop Filters Column 2 : 
+
+Filter Products by Price - Filter by price - Imported
+Filter Products by Attribute - Brands - Imported
+
+Full Width Shop Filters Column 3 : 
+
+Filter Products by Attribute - SIze - Imported
+Filter Products by Attribute - Color - Imported
+
+Footer Column 1 : 
+
+Navigation Menu - Shop departments - Imported
+
+Footer Column 2 : 
+
+Navigation Menu - Account &amp; Shipping Info - Imported
+Navigation Menu - About Us - Imported
+
+Footer Column 3 : 
+
+Text - Stay informed - Imported
+Custom HTML - Download our app - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
